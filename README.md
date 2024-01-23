@@ -1,7 +1,5 @@
 # EasyS3
 aws s3 implementation using cognito identity
-Get your free API KEy by creating an App on AWS. get the key first for Testing and on release of your game/app get the release key.
-replace your API_KEY in String under Plugin/private/Xml/strings.xml file.
 
 Path complete location of the file to be uploaded.
 Make S3 bucket policy public to upload
